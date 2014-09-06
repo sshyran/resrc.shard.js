@@ -8,10 +8,10 @@ Additional network connections above and beyond the recommended limits are not "
 
 ## Usage
 
-1. Include [resrc.js](http://use.resrc.it/0.7):
+1. Include [resrc.js](http://use.resrc.it/0.9):
 
   ```html
-  <script src="//use.resrc.it/0.7"></script>
+  <script src="//use.resrc.it/0.9"></script>
   ```
 
 2. Include the plugin:
